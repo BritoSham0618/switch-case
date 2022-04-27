@@ -7,7 +7,7 @@ switch (a) {
          break;
  case 2: printf("I am Two\n");
          break;
- case 3: printf("I an Three\n");
+ case 3: printf("I am Three\n");
          break;
  case 4: printf("I am Four\n");
          break;
